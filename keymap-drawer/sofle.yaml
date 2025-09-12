@@ -13,7 +13,7 @@ layers:
   - '9'
   - '0'
   - '-'
-  - CAPS
+  - '`'
   - Q
   - W
   - E
@@ -51,7 +51,7 @@ layers:
   - .
   - /
   - RSHFT
-  - lower
+  - CAPSLOCK
   - LEFT ALT
   - LCTRL
   - ENTER
@@ -112,7 +112,7 @@ layers:
   - ':'
   - \
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -234,7 +234,7 @@ layers:
   - ''
   - ''
   - ''
-  - {type: held}
+  - ''
   - ''
   - ''
   - ''
