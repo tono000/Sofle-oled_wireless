@@ -1,6 +1,6 @@
 layout: {zmk_keyboard: sofle}
 layers:
-  default: [ESC, '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', DELETE, CAPS, Q, W, E, R, T, Y, U, I, O, P, BSPC, TAB, A, S, D, F, G, H, J, K, L, ;, '''', LEFT
+  default: [ESC, '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', DELETE, CAPS, Q, W, E, R, T, Y, U, I, O, P, '=', TAB, A, S, D, F, G, H, J, K, L, ;, '''', LEFT
       SHIFT, Z, X, C, V, B, MUTE, '&msc MOVE_X(-20)', N, M, ',', ., /, RSHFT, LGUI, LALT, LCTRL, lower, RET, SPACE, BACKSPACE, RCTRL, RALT, RGUI]
   lower:
   - {t: ▽, type: trans}
