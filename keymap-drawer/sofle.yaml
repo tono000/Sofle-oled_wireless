@@ -56,8 +56,8 @@ layers:
   - LCTRL
   - ENTER
   - LEFT WIN
-  - BACKSPACE
   - SPACE
+  - BACKSPACE
   - \
   - '['
   - ']'
