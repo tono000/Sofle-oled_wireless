@@ -59,8 +59,8 @@ layers:
   - RET
   - BACKSPACE
   - lower
-  - '['
-  - ']'
+  - DELETE
+  - adjust
   lower:
   - {t: ▽, type: trans}
   - F1
@@ -238,9 +238,9 @@ layers:
   - ''
   - ''
   - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - {type: held}
-  - ''
-  - ''
-  - {type: held}
-  - ''
-  - ''
