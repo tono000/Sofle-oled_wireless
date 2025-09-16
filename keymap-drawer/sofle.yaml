@@ -54,10 +54,10 @@ layers:
   - LEFT CONTROL
   - LEFT ALT
   - LEFT GUI
-  - SPACE
+  - BACKSPACE
   - raise
   - RET
-  - BACKSPACE
+  - SPACE
   - lower
   - DELETE
   - adjust
