@@ -151,7 +151,7 @@ layers:
   - LALT
   - LCTRL
   - LSHFT
-  - {t: ▽, type: trans}
+  - LEFT GUI
   - CLCK
   - PG DN
   - LEFT
