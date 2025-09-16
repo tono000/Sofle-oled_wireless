@@ -51,14 +51,14 @@ layers:
   - .
   - /
   - RSHFT
-  - CAPSLOCK
+  - LEFT CONTROL
   - LEFT ALT
-  - LCTRL
-  - ENTER
-  - LEFT WIN
+  - LEFT GUI
   - SPACE
+  - raise
+  - RET
   - BACKSPACE
-  - \
+  - lower
   - '['
   - ']'
   lower:
@@ -119,7 +119,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   raise:
@@ -177,7 +177,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -238,9 +238,9 @@ layers:
   - ''
   - ''
   - ''
+  - {type: held}
   - ''
   - ''
-  - ''
-  - ''
+  - {type: held}
   - ''
   - ''
