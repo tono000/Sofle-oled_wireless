@@ -37,7 +37,7 @@ layers:
   - L
   - ;
   - ''''
-  - LEFT SHIFT
+  - LSHIFT
   - Z
   - X
   - C
@@ -55,11 +55,11 @@ layers:
   - LEFT ALT
   - LEFT GUI
   - BACKSPACE
-  - raise
+  - lower
   - RET
   - SPACE
-  - lower
-  - '-'
+  - {t: '=', h: raise}
+  - {t: '-', h: adjust}
   - adjust
   lower:
   - {t: ▽, type: trans}
@@ -116,10 +116,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   raise:
@@ -177,10 +177,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   adjust:
@@ -242,5 +242,5 @@ layers:
   - ''
   - ''
   - ''
-  - ''
   - {type: held}
+  - ''
