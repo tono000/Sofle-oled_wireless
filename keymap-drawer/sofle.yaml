@@ -148,10 +148,10 @@ layers:
   - '0'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - LALT
+  - LCTRL
   - LSHIFT
   - LGUI
-  - LCTRL
+  - LALT
   - CLCK
   - PG DN
   - LEFT
