@@ -35,9 +35,7 @@
 
             #binding-cells = <2>;
             flavor = "tap-preferred";
-            tapping-term-ms = <(-4)>;
-            require-prior-idle-ms = <1>;
-            quick-tap-ms = <1>;
+            tapping-term-ms = <199>;
         };
     };
 
