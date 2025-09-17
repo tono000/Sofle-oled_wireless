@@ -24,7 +24,7 @@ layers:
   - I
   - O
   - P
-  - '='
+  - \
   - TAB
   - A
   - S
@@ -59,8 +59,8 @@ layers:
   - RET
   - SPACE
   - {t: '=', h: raise}
-  - {t: '-', h: adjust}
-  - adjust
+  - {t: '[', h: adjust}
+  - ']'
   lower:
   - {t: ▽, type: trans}
   - F1
