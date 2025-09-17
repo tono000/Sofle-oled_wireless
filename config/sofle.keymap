@@ -57,7 +57,7 @@
 &kp GRAVE   &kp Q   &kp W             &kp E         &kp R         &kp T                                        &kp Y      &kp U              &kp I                     &kp O              &kp P     &kp BACKSLASH
 &kp TAB     &kp A   &kp S             &kp D         &kp F         &kp G                                        &kp H      &kp J              &kp K                     &kp L              &kp SEMI  &kp SQT
 &kp LSHIFT  &kp Z   &kp X             &kp C         &kp V         &kp B          &tog 1               &tog 2   &kp N      &kp M              &kp COMMA                 &kp DOT            &kp FSLH  &kp RSHFT
-                    &kp LEFT_CONTROL  &kp LEFT_ALT  &kp LEFT_GUI  &kp BACKSPACE  &hold_tap 1 MINUS    &kp RET  &kp SPACE  &hold_tap 2 EQUAL  &hold_tap 3 LEFT_BRACKET  &kp RIGHT_BRACKET
+                    &kp LEFT_CONTROL  &kp LEFT_ALT  &kp LEFT_GUI  &kp BACKSPACE  &hold_tap 1 EQUAL    &kp RET  &kp SPACE  &hold_tap 2 MINUS  &hold_tap 3 LEFT_BRACKET  &kp RIGHT_BRACKET
             >;
 
             sensor-bindings =
