@@ -55,7 +55,7 @@ layers:
   - LEFT ALT
   - LEFT GUI
   - BACKSPACE
-  - lower
+  - {t: '-', h: lower}
   - RET
   - SPACE
   - {t: '=', h: raise}
