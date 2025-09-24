@@ -43,7 +43,7 @@ layers:
   - C
   - V
   - B
-  - MUTE
+  - Ctl+Alt+0
   - Ctl+Gui+Q
   - N
   - M
