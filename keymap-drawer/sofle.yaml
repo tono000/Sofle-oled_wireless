@@ -43,8 +43,8 @@ layers:
   - C
   - V
   - B
-  - {t: lower, h: toggle}
-  - {t: raise, h: toggle}
+  - '&mkp LCLK'
+  - '&mkp RCLK'
   - N
   - M
   - ','
@@ -142,9 +142,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - PG UP
-  - {t: ▽, type: trans}
+  - HOME
   - UP
-  - {t: ▽, type: trans}
+  - END
   - '0'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
