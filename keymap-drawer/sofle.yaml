@@ -43,8 +43,8 @@ layers:
   - C
   - V
   - B
-  - '&mkp LCLK'
-  - '&mkp RCLK'
+  - '&mkp MB1'
+  - '&mkp MB2'
   - N
   - M
   - ','
