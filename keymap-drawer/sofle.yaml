@@ -43,8 +43,8 @@ layers:
   - C
   - V
   - B
-  - '&mkp MB1'
-  - '&mkp MB2'
+  - MUTE
+  - LOCK
   - N
   - M
   - ','
